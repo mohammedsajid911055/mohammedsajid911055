@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mohammedsajid911055
+- 👋 Hi, I’m Mohammed Sajid
 - 👀 I’m interested in Web development and Blockchain technology
-- 🌱 I’m currently learning Html and Css
-- �
+- 🌱 I’m currently learning Html, CSS and Javascript
 - 📫 Reach me on mohammedsajid501202@gmail.com
 
 <!---
